@@ -24,4 +24,4 @@
 
 📫 Sempre buscando aprender mais e melhorar minhas habilidades como desenvolvedor.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f030e85a-bf17-4317-b8b6-215ffd872f04" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/f030e85a-bf17-4317-b8b6-215ffd872f04" witdh = "30" heigh = "30"/>
