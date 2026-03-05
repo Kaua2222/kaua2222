@@ -1,16 +1,15 @@
-## Hi there 👋
+óla, me chama Kauã Cezar カウアン
+chama no FF, jogar umas rankd
 
-<!--
-**Kaua2222/kaua2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atuamente estou aprendendo c#
+- 👯 estou procurando oportunudade de colobração em c#
+- 🤔 estiu procurando ajuda na area de desenvolvimento de sistema
+- 💬 me pergunta sobre nada
+- 📫 pode me achar no FF
 
-Here are some ideas to get you started:
+- ## estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="30" hight="30" />
+               
+          
+       
