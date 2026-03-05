@@ -8,8 +8,7 @@ chama no FF, jogar umas rankd
 - 📫 pode me achar no FF
 
 - ## estou aprendendo
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width="30" hight="30" />
-               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width = "30" height = "30" />
+          
           
        
